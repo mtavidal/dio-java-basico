@@ -1,4 +1,4 @@
-package exercicio1;
+package exemplo1;
 
 public class ExercicioSmartTv{
    
